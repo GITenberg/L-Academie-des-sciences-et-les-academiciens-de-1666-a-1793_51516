@@ -1,0 +1,32 @@
+_repo: L-Academie-des-sciences-et-les-academiciens-de-1666-a-1793_51516
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bertrand, Joseph
+    aliases:
+    - Bertrand, J. (Joseph)
+    - Bertrand, Joseph Louis François
+    - Bertrand, Joseph Louis Francois
+    birthdate: 1822
+    deathdate: 1900
+    gutenberg_agent_id: '6114'
+    url: http://www.gutenberg.org/2009/agents/6114
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Louis_François_Bertrand
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2016-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51516'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Scientists'
+- !lcsh 'Académie des sciences (France)'
+- !lcsh 'France -- Biography'
+- !lcc 'Q'
+- GITenberg
+title: L'Académie des sciences et les académiciens de 1666 à 1793
+url: http://www.gutenberg.org/ebooks/51516
