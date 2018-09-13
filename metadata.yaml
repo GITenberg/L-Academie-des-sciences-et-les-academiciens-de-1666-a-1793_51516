@@ -1,5 +1,8 @@
 _repo: L-Academie-des-sciences-et-les-academiciens-de-1666-a-1793_51516
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51516-h/images/cover.jpg
 creator:
   author:
     agent_name: Bertrand, Joseph
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6114
     wikipedia: http://en.wikipedia.org/wiki/Joseph_Louis_François_Bertrand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51516#L-Academie-des-sciences-et-les-academiciens-de-1666-a-1793
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2016-03-21'
 gutenberg_type: Text
